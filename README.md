@@ -4,7 +4,8 @@
 
 HealthGuard is a Streamlit-based Python application that analyzes a user's sleep and lifestyle data and generates personalized, practical recommendations. The app helps users understand and improve their sleep hygiene, monitor stress, track body metrics, and get targeted tips for food, activity, meditation and daily habits.
 
-blob:https://web.whatsapp.com/dfcbcfa5-1798-4988-be1f-3b355ba75072<img width="2560" height="1470" alt="image" src="https://github.com/user-attachments/assets/3f1fd83c-c821-45f9-b50d-7e96c09efa01" />
+![pic](https://github.com/user-attachments/assets/b752066b-c782-42a8-9711-2d2848b6636c)
+
 
 ## Key technologies
 
